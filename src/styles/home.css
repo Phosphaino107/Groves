@@ -1,0 +1,13 @@
+.landing-page{
+    height: 100vh;
+    width: 100vw;
+    background: url(../assets/IMG_2194.JPG);
+    background-size: cover;
+    position: relative;
+}
+.back{
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    width: 100vw;
+}
